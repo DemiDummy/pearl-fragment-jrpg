@@ -41,6 +41,12 @@
     "height": 1.28,
     "triangles": 576
   },
+  "company_fort": {
+    "file": "company_fort.glb",
+    "radius": 9.0,
+    "height": 11.18,
+    "triangles": 3424
+  },
   "crate_stack": {
     "file": "crate_stack.glb",
     "radius": 1.0,
@@ -167,6 +173,12 @@
     "height": 5.65,
     "triangles": 562
   },
+  "ruin_crystal": {
+    "file": "ruin_crystal.glb",
+    "radius": 0.8,
+    "height": 2.17,
+    "triangles": 624
+  },
   "ruin_pillar": {
     "file": "ruin_pillar.glb",
     "radius": 0.8,
@@ -202,6 +214,12 @@
     "radius": 0.8,
     "height": 2.5,
     "triangles": 299
+  },
+  "street_lamp": {
+    "file": "street_lamp.glb",
+    "radius": 0.25,
+    "height": 3.53,
+    "triangles": 256
   },
   "sunstone_gate": {
     "file": "sunstone_gate.glb",

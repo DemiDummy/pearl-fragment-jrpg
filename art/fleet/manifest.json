@@ -83,6 +83,13 @@
     "height": 2.2,
     "triangles": 3196
   },
+  "kraken": {
+    "file": "kraken.glb",
+    "length": 2.42,
+    "beam": 2.19,
+    "height": 1.3,
+    "triangles": 2045
+  },
   "navy_chaser": {
     "file": "navy_chaser.glb",
     "length": 2.59,
@@ -130,13 +137,38 @@
     "length": 4.01,
     "beam": 1.41,
     "height": 2.8,
-    "triangles": 4037
+    "triangles": 4037,
+    "slots": {
+      "gundeck": 260,
+      "galley": 137,
+      "infirmary": 148,
+      "workshop": 158,
+      "quarters": 180,
+      "rigging": 181,
+      "hold": 195
+    }
   },
   "player_sloop": {
     "file": "player_sloop.glb",
     "length": 3.59,
     "beam": 1.28,
     "height": 2.5,
-    "triangles": 3276
+    "triangles": 3276,
+    "slots": {
+      "gundeck": 222,
+      "galley": 137,
+      "infirmary": 148,
+      "workshop": 158,
+      "quarters": 180,
+      "rigging": 181,
+      "hold": 195
+    }
+  },
+  "sea_serpent": {
+    "file": "sea_serpent.glb",
+    "length": 2.99,
+    "beam": 0.91,
+    "height": 2.52,
+    "triangles": 1652
   }
 }
