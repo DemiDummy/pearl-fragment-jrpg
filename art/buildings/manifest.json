@@ -1,0 +1,149 @@
+{
+  "alchemy": {
+    "file": "alchemy.glb",
+    "w": 2,
+    "h": 2,
+    "height": 11.19,
+    "triangles": 2352
+  },
+  "armoury": {
+    "file": "armoury.glb",
+    "w": 2,
+    "h": 2,
+    "height": 6.6,
+    "triangles": 1299
+  },
+  "bakery": {
+    "file": "bakery.glb",
+    "w": 2,
+    "h": 2,
+    "height": 5.43,
+    "triangles": 960
+  },
+  "cottage": {
+    "file": "cottage.glb",
+    "w": 2,
+    "h": 2,
+    "height": 5.63,
+    "triangles": 1000
+  },
+  "farm": {
+    "file": "farm.glb",
+    "w": 3,
+    "h": 3,
+    "height": 4.29,
+    "triangles": 1954
+  },
+  "fishery": {
+    "file": "fishery.glb",
+    "w": 2,
+    "h": 2,
+    "height": 4.0,
+    "triangles": 1629
+  },
+  "forge": {
+    "file": "forge.glb",
+    "w": 2,
+    "h": 2,
+    "height": 6.43,
+    "triangles": 680
+  },
+  "hemp": {
+    "file": "hemp.glb",
+    "w": 3,
+    "h": 3,
+    "height": 3.2,
+    "triangles": 2254
+  },
+  "hut": {
+    "file": "hut.glb",
+    "w": 2,
+    "h": 2,
+    "height": 4.9,
+    "triangles": 776
+  },
+  "infirmary": {
+    "file": "infirmary.glb",
+    "w": 2,
+    "h": 2,
+    "height": 6.03,
+    "triangles": 1118
+  },
+  "lumber": {
+    "file": "lumber.glb",
+    "w": 2,
+    "h": 2,
+    "height": 3.22,
+    "triangles": 648
+  },
+  "mill": {
+    "file": "mill.glb",
+    "w": 2,
+    "h": 2,
+    "height": 10.5,
+    "triangles": 1099
+  },
+  "mine": {
+    "file": "mine.glb",
+    "w": 2,
+    "h": 2,
+    "height": 5.55,
+    "triangles": 812
+  },
+  "quarry": {
+    "file": "quarry.glb",
+    "w": 2,
+    "h": 2,
+    "height": 5.22,
+    "triangles": 448
+  },
+  "research": {
+    "file": "research.glb",
+    "w": 2,
+    "h": 2,
+    "height": 8.18,
+    "triangles": 1631
+  },
+  "ropewalk": {
+    "file": "ropewalk.glb",
+    "w": 2,
+    "h": 3,
+    "height": 3.92,
+    "triangles": 1962
+  },
+  "sailloft": {
+    "file": "sailloft.glb",
+    "w": 2,
+    "h": 3,
+    "height": 7.63,
+    "triangles": 984
+  },
+  "shipyard": {
+    "file": "shipyard.glb",
+    "w": 3,
+    "h": 3,
+    "height": 7.05,
+    "triangles": 1334
+  },
+  "smokehouse": {
+    "file": "smokehouse.glb",
+    "w": 2,
+    "h": 2,
+    "height": 4.31,
+    "triangles": 747
+  },
+  "tavern": {
+    "file": "tavern.glb",
+    "w": 2,
+    "h": 2,
+    "height": 8.63,
+    "triangles": 1700
+  },
+  "warehouse": {
+    "file": "warehouse.glb",
+    "w": 2,
+    "h": 2,
+    "height": 6.15,
+    "triangles": 1104
+  }
+}
