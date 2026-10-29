@@ -1,0 +1,1009 @@
+{
+  "captain": {
+    "file": "captain.glb",
+    "height": 1.74,
+    "radius": 0.45,
+    "walkSpeed": 1.41,
+    "runSpeed": 3.96,
+    "triangles": 2099,
+    "animations": {
+      "Idle": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Walk": {
+        "duration": 0.933,
+        "loop": true
+      },
+      "Talk": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Run": {
+        "duration": 0.533,
+        "loop": true
+      },
+      "BattleIdle": {
+        "duration": 1.6,
+        "loop": true
+      },
+      "Attack": {
+        "duration": 1.0,
+        "contacts": [
+          0.467
+        ]
+      },
+      "Attack2": {
+        "duration": 0.8,
+        "contacts": [
+          0.3
+        ]
+      },
+      "Skill": {
+        "duration": 1.6,
+        "contacts": [
+          0.5,
+          0.833,
+          1.2
+        ]
+      },
+      "Cast": {
+        "duration": 1.4,
+        "contacts": [
+          0.8
+        ]
+      },
+      "Hit": {
+        "duration": 0.5
+      },
+      "Dodge": {
+        "duration": 0.5,
+        "contacts": [
+          0.15
+        ]
+      },
+      "Parry": {
+        "duration": 0.5,
+        "contacts": [
+          0.133
+        ]
+      },
+      "Knockout": {
+        "duration": 1.2
+      },
+      "Victory": {
+        "duration": 2.0
+      }
+    }
+  },
+  "brute": {
+    "file": "brute.glb",
+    "height": 1.8,
+    "radius": 0.47,
+    "walkSpeed": 1.46,
+    "runSpeed": 4.09,
+    "triangles": 1491,
+    "animations": {
+      "Idle": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Walk": {
+        "duration": 0.933,
+        "loop": true
+      },
+      "Talk": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Run": {
+        "duration": 0.533,
+        "loop": true
+      },
+      "BattleIdle": {
+        "duration": 1.6,
+        "loop": true
+      },
+      "Attack": {
+        "duration": 1.0,
+        "contacts": [
+          0.467
+        ]
+      },
+      "Attack2": {
+        "duration": 0.8,
+        "contacts": [
+          0.3
+        ]
+      },
+      "Skill": {
+        "duration": 1.6,
+        "contacts": [
+          0.5,
+          0.833,
+          1.2
+        ]
+      },
+      "Cast": {
+        "duration": 1.4,
+        "contacts": [
+          0.8
+        ]
+      },
+      "Hit": {
+        "duration": 0.5
+      },
+      "Dodge": {
+        "duration": 0.5,
+        "contacts": [
+          0.15
+        ]
+      },
+      "Parry": {
+        "duration": 0.5,
+        "contacts": [
+          0.133
+        ]
+      },
+      "Knockout": {
+        "duration": 1.2
+      },
+      "Victory": {
+        "duration": 2.0
+      }
+    }
+  },
+  "mara": {
+    "file": "mara.glb",
+    "height": 1.7,
+    "radius": 0.44,
+    "walkSpeed": 1.38,
+    "runSpeed": 3.87,
+    "triangles": 1811,
+    "animations": {
+      "Idle": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Walk": {
+        "duration": 0.933,
+        "loop": true
+      },
+      "Talk": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Run": {
+        "duration": 0.533,
+        "loop": true
+      },
+      "BattleIdle": {
+        "duration": 1.6,
+        "loop": true
+      },
+      "Attack": {
+        "duration": 1.0,
+        "contacts": [
+          0.467
+        ]
+      },
+      "Attack2": {
+        "duration": 0.8,
+        "contacts": [
+          0.3
+        ]
+      },
+      "Skill": {
+        "duration": 1.6,
+        "contacts": [
+          0.5,
+          0.833,
+          1.2
+        ]
+      },
+      "Cast": {
+        "duration": 1.4,
+        "contacts": [
+          0.8
+        ]
+      },
+      "Hit": {
+        "duration": 0.5
+      },
+      "Dodge": {
+        "duration": 0.5,
+        "contacts": [
+          0.15
+        ]
+      },
+      "Parry": {
+        "duration": 0.5,
+        "contacts": [
+          0.133
+        ]
+      },
+      "Knockout": {
+        "duration": 1.2
+      },
+      "Victory": {
+        "duration": 2.0
+      }
+    }
+  },
+  "bram": {
+    "file": "bram.glb",
+    "height": 2.0,
+    "radius": 0.52,
+    "walkSpeed": 1.62,
+    "runSpeed": 4.55,
+    "triangles": 1457,
+    "animations": {
+      "Idle": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Walk": {
+        "duration": 0.933,
+        "loop": true
+      },
+      "Talk": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Run": {
+        "duration": 0.533,
+        "loop": true
+      },
+      "BattleIdle": {
+        "duration": 1.6,
+        "loop": true
+      },
+      "Attack": {
+        "duration": 1.0,
+        "contacts": [
+          0.467
+        ]
+      },
+      "Attack2": {
+        "duration": 0.8,
+        "contacts": [
+          0.3
+        ]
+      },
+      "Skill": {
+        "duration": 1.6,
+        "contacts": [
+          0.833
+        ]
+      },
+      "Cast": {
+        "duration": 1.4,
+        "contacts": [
+          0.8
+        ]
+      },
+      "Hit": {
+        "duration": 0.5
+      },
+      "Dodge": {
+        "duration": 0.5,
+        "contacts": [
+          0.15
+        ]
+      },
+      "Parry": {
+        "duration": 0.5,
+        "contacts": [
+          0.133
+        ]
+      },
+      "Knockout": {
+        "duration": 1.2
+      },
+      "Victory": {
+        "duration": 2.0
+      }
+    }
+  },
+  "ines": {
+    "file": "ines.glb",
+    "height": 1.72,
+    "radius": 0.45,
+    "walkSpeed": 1.39,
+    "runSpeed": 3.91,
+    "triangles": 2069,
+    "animations": {
+      "Idle": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Walk": {
+        "duration": 0.933,
+        "loop": true
+      },
+      "Talk": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Run": {
+        "duration": 0.533,
+        "loop": true
+      },
+      "BattleIdle": {
+        "duration": 1.6,
+        "loop": true
+      },
+      "Attack": {
+        "duration": 1.0,
+        "contacts": [
+          0.467
+        ]
+      },
+      "Attack2": {
+        "duration": 0.8,
+        "contacts": [
+          0.3
+        ]
+      },
+      "Skill": {
+        "duration": 1.6,
+        "contacts": [
+          0.6,
+          1.0
+        ]
+      },
+      "Cast": {
+        "duration": 1.4,
+        "contacts": [
+          0.8
+        ]
+      },
+      "Hit": {
+        "duration": 0.5
+      },
+      "Dodge": {
+        "duration": 0.5,
+        "contacts": [
+          0.15
+        ]
+      },
+      "Parry": {
+        "duration": 0.5,
+        "contacts": [
+          0.133
+        ]
+      },
+      "Knockout": {
+        "duration": 1.2
+      },
+      "Victory": {
+        "duration": 2.0
+      }
+    }
+  },
+  "gunner": {
+    "file": "gunner.glb",
+    "height": 1.78,
+    "radius": 0.46,
+    "walkSpeed": 1.44,
+    "runSpeed": 4.05,
+    "triangles": 1642,
+    "animations": {
+      "Idle": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Walk": {
+        "duration": 0.933,
+        "loop": true
+      },
+      "Talk": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Run": {
+        "duration": 0.533,
+        "loop": true
+      },
+      "BattleIdle": {
+        "duration": 1.6,
+        "loop": true
+      },
+      "Attack": {
+        "duration": 1.0,
+        "contacts": [
+          0.467
+        ]
+      },
+      "Attack2": {
+        "duration": 0.8,
+        "contacts": [
+          0.3
+        ]
+      },
+      "Skill": {
+        "duration": 1.6,
+        "contacts": [
+          0.6,
+          1.0
+        ]
+      },
+      "Cast": {
+        "duration": 1.4,
+        "contacts": [
+          0.8
+        ]
+      },
+      "Hit": {
+        "duration": 0.5
+      },
+      "Dodge": {
+        "duration": 0.5,
+        "contacts": [
+          0.15
+        ]
+      },
+      "Parry": {
+        "duration": 0.5,
+        "contacts": [
+          0.133
+        ]
+      },
+      "Knockout": {
+        "duration": 1.2
+      },
+      "Victory": {
+        "duration": 2.0
+      }
+    }
+  },
+  "soldier": {
+    "file": "soldier.glb",
+    "height": 1.74,
+    "radius": 0.45,
+    "walkSpeed": 1.41,
+    "runSpeed": 3.96,
+    "triangles": 1613,
+    "animations": {
+      "Idle": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Walk": {
+        "duration": 0.933,
+        "loop": true
+      },
+      "Talk": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Run": {
+        "duration": 0.533,
+        "loop": true
+      },
+      "BattleIdle": {
+        "duration": 1.6,
+        "loop": true
+      },
+      "Attack": {
+        "duration": 1.0,
+        "contacts": [
+          0.467
+        ]
+      },
+      "Attack2": {
+        "duration": 0.8,
+        "contacts": [
+          0.3
+        ]
+      },
+      "Skill": {
+        "duration": 1.6,
+        "contacts": [
+          0.833
+        ]
+      },
+      "Cast": {
+        "duration": 1.4,
+        "contacts": [
+          0.8
+        ]
+      },
+      "Hit": {
+        "duration": 0.5
+      },
+      "Dodge": {
+        "duration": 0.5,
+        "contacts": [
+          0.15
+        ]
+      },
+      "Parry": {
+        "duration": 0.5,
+        "contacts": [
+          0.133
+        ]
+      },
+      "Knockout": {
+        "duration": 1.2
+      },
+      "Victory": {
+        "duration": 2.0
+      }
+    }
+  },
+  "officer": {
+    "file": "officer.glb",
+    "height": 1.76,
+    "radius": 0.46,
+    "walkSpeed": 1.42,
+    "runSpeed": 4.0,
+    "triangles": 2117,
+    "animations": {
+      "Idle": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Walk": {
+        "duration": 0.933,
+        "loop": true
+      },
+      "Talk": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Run": {
+        "duration": 0.533,
+        "loop": true
+      },
+      "BattleIdle": {
+        "duration": 1.6,
+        "loop": true
+      },
+      "Attack": {
+        "duration": 1.0,
+        "contacts": [
+          0.467
+        ]
+      },
+      "Attack2": {
+        "duration": 0.8,
+        "contacts": [
+          0.3
+        ]
+      },
+      "Skill": {
+        "duration": 1.6,
+        "contacts": [
+          0.5,
+          0.833,
+          1.2
+        ]
+      },
+      "Cast": {
+        "duration": 1.4,
+        "contacts": [
+          0.8
+        ]
+      },
+      "Hit": {
+        "duration": 0.5
+      },
+      "Dodge": {
+        "duration": 0.5,
+        "contacts": [
+          0.15
+        ]
+      },
+      "Parry": {
+        "duration": 0.5,
+        "contacts": [
+          0.133
+        ]
+      },
+      "Knockout": {
+        "duration": 1.2
+      },
+      "Victory": {
+        "duration": 2.0
+      }
+    }
+  },
+  "pell": {
+    "file": "pell.glb",
+    "height": 1.68,
+    "radius": 0.44,
+    "walkSpeed": 1.36,
+    "runSpeed": 3.82,
+    "triangles": 1369,
+    "animations": {
+      "Idle": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Walk": {
+        "duration": 0.933,
+        "loop": true
+      },
+      "Talk": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Run": {
+        "duration": 0.533,
+        "loop": true
+      },
+      "BattleIdle": {
+        "duration": 1.6,
+        "loop": true
+      },
+      "Attack": {
+        "duration": 1.0,
+        "contacts": [
+          0.467
+        ]
+      },
+      "Attack2": {
+        "duration": 0.8,
+        "contacts": [
+          0.3
+        ]
+      },
+      "Skill": {
+        "duration": 1.6,
+        "contacts": [
+          0.6,
+          1.2
+        ]
+      },
+      "Cast": {
+        "duration": 1.4,
+        "contacts": [
+          0.8
+        ]
+      },
+      "Hit": {
+        "duration": 0.5
+      },
+      "Dodge": {
+        "duration": 0.5,
+        "contacts": [
+          0.15
+        ]
+      },
+      "Parry": {
+        "duration": 0.5,
+        "contacts": [
+          0.133
+        ]
+      },
+      "Knockout": {
+        "duration": 1.2
+      },
+      "Victory": {
+        "duration": 2.0
+      }
+    }
+  },
+  "tobin": {
+    "file": "tobin.glb",
+    "height": 1.76,
+    "radius": 0.46,
+    "walkSpeed": 1.42,
+    "runSpeed": 4.0,
+    "triangles": 1478,
+    "animations": {
+      "Idle": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Walk": {
+        "duration": 0.933,
+        "loop": true
+      },
+      "Talk": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Run": {
+        "duration": 0.533,
+        "loop": true
+      },
+      "BattleIdle": {
+        "duration": 1.6,
+        "loop": true
+      },
+      "Attack": {
+        "duration": 1.0,
+        "contacts": [
+          0.467
+        ]
+      },
+      "Attack2": {
+        "duration": 0.8,
+        "contacts": [
+          0.3
+        ]
+      },
+      "Skill": {
+        "duration": 1.6,
+        "contacts": [
+          0.6,
+          1.0
+        ]
+      },
+      "Cast": {
+        "duration": 1.4,
+        "contacts": [
+          0.8
+        ]
+      },
+      "Hit": {
+        "duration": 0.5
+      },
+      "Dodge": {
+        "duration": 0.5,
+        "contacts": [
+          0.15
+        ]
+      },
+      "Parry": {
+        "duration": 0.5,
+        "contacts": [
+          0.133
+        ]
+      },
+      "Knockout": {
+        "duration": 1.2
+      },
+      "Victory": {
+        "duration": 2.0
+      }
+    }
+  },
+  "townsfolk_a": {
+    "file": "townsfolk_a.glb",
+    "height": 1.72,
+    "radius": 0.45,
+    "walkSpeed": 1.39,
+    "runSpeed": 0.0,
+    "triangles": 1320,
+    "animations": {
+      "Idle": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Walk": {
+        "duration": 0.933,
+        "loop": true
+      },
+      "Talk": {
+        "duration": 2.4,
+        "loop": true
+      }
+    }
+  },
+  "townsfolk_b": {
+    "file": "townsfolk_b.glb",
+    "height": 1.62,
+    "radius": 0.42,
+    "walkSpeed": 1.31,
+    "runSpeed": 0.0,
+    "triangles": 1289,
+    "animations": {
+      "Idle": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Walk": {
+        "duration": 0.933,
+        "loop": true
+      },
+      "Talk": {
+        "duration": 2.4,
+        "loop": true
+      }
+    }
+  },
+  "elder": {
+    "file": "elder.glb",
+    "height": 1.62,
+    "radius": 0.42,
+    "walkSpeed": 1.31,
+    "runSpeed": 0.0,
+    "triangles": 1264,
+    "animations": {
+      "Idle": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Walk": {
+        "duration": 0.933,
+        "loop": true
+      },
+      "Talk": {
+        "duration": 2.4,
+        "loop": true
+      }
+    }
+  },
+  "merchant": {
+    "file": "merchant.glb",
+    "height": 1.7,
+    "radius": 0.44,
+    "walkSpeed": 1.38,
+    "runSpeed": 0.0,
+    "triangles": 1291,
+    "animations": {
+      "Idle": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Walk": {
+        "duration": 0.933,
+        "loop": true
+      },
+      "Talk": {
+        "duration": 2.4,
+        "loop": true
+      }
+    }
+  },
+  "silt": {
+    "file": "silt.glb",
+    "height": 1.82,
+    "radius": 0.47,
+    "walkSpeed": 1.47,
+    "runSpeed": 4.14,
+    "triangles": 1858,
+    "animations": {
+      "Idle": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Walk": {
+        "duration": 0.933,
+        "loop": true
+      },
+      "Talk": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Run": {
+        "duration": 0.533,
+        "loop": true
+      },
+      "BattleIdle": {
+        "duration": 1.6,
+        "loop": true
+      },
+      "Attack": {
+        "duration": 1.0,
+        "contacts": [
+          0.467
+        ]
+      },
+      "Attack2": {
+        "duration": 0.8,
+        "contacts": [
+          0.3
+        ]
+      },
+      "Skill": {
+        "duration": 1.6,
+        "contacts": [
+          0.5,
+          0.833,
+          1.2
+        ]
+      },
+      "Cast": {
+        "duration": 1.4,
+        "contacts": [
+          0.8
+        ]
+      },
+      "Hit": {
+        "duration": 0.5
+      },
+      "Dodge": {
+        "duration": 0.5,
+        "contacts": [
+          0.15
+        ]
+      },
+      "Parry": {
+        "duration": 0.5,
+        "contacts": [
+          0.133
+        ]
+      },
+      "Knockout": {
+        "duration": 1.2
+      },
+      "Victory": {
+        "duration": 2.0
+      }
+    }
+  },
+  "varrok": {
+    "file": "varrok.glb",
+    "height": 3.6,
+    "radius": 0.94,
+    "walkSpeed": 2.91,
+    "runSpeed": 8.19,
+    "triangles": 2062,
+    "animations": {
+      "Idle": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Walk": {
+        "duration": 0.933,
+        "loop": true
+      },
+      "Talk": {
+        "duration": 2.4,
+        "loop": true
+      },
+      "Run": {
+        "duration": 0.533,
+        "loop": true
+      },
+      "BattleIdle": {
+        "duration": 1.6,
+        "loop": true
+      },
+      "Attack": {
+        "duration": 1.0,
+        "contacts": [
+          0.5
+        ]
+      },
+      "Attack2": {
+        "duration": 0.8,
+        "contacts": [
+          0.3
+        ]
+      },
+      "Skill": {
+        "duration": 1.6,
+        "contacts": [
+          0.5,
+          0.9,
+          1.3
+        ]
+      },
+      "Cast": {
+        "duration": 1.4,
+        "contacts": [
+          0.8
+        ]
+      },
+      "Hit": {
+        "duration": 0.5
+      },
+      "Dodge": {
+        "duration": 0.5,
+        "contacts": [
+          0.15
+        ]
+      },
+      "Parry": {
+        "duration": 0.5,
+        "contacts": [
+          0.133
+        ]
+      },
+      "Knockout": {
+        "duration": 1.2
+      },
+      "Victory": {
+        "duration": 2.0
+      },
+      "Roar": {
+        "duration": 2.0
+      }
+    }
+  }
+}
