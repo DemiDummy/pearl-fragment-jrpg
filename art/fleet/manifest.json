@@ -1,0 +1,142 @@
+{
+  "brethren_chaser": {
+    "file": "brethren_chaser.glb",
+    "length": 2.59,
+    "beam": 0.94,
+    "height": 1.8,
+    "triangles": 2838
+  },
+  "brethren_cutter": {
+    "file": "brethren_cutter.glb",
+    "length": 2.11,
+    "beam": 0.71,
+    "height": 1.75,
+    "triangles": 1948
+  },
+  "brethren_galleon": {
+    "file": "brethren_galleon.glb",
+    "length": 3.4,
+    "beam": 1.38,
+    "height": 2.4,
+    "triangles": 4455
+  },
+  "brethren_runner": {
+    "file": "brethren_runner.glb",
+    "length": 2.73,
+    "beam": 0.84,
+    "height": 1.75,
+    "triangles": 2824
+  },
+  "brethren_skirmisher": {
+    "file": "brethren_skirmisher.glb",
+    "length": 2.0,
+    "beam": 0.8,
+    "height": 1.74,
+    "triangles": 2247
+  },
+  "brethren_sloop": {
+    "file": "brethren_sloop.glb",
+    "length": 2.99,
+    "beam": 1.1,
+    "height": 2.2,
+    "triangles": 3196
+  },
+  "enemy_chaser": {
+    "file": "enemy_chaser.glb",
+    "length": 2.59,
+    "beam": 0.94,
+    "height": 1.8,
+    "triangles": 2838
+  },
+  "enemy_cutter": {
+    "file": "enemy_cutter.glb",
+    "length": 2.11,
+    "beam": 0.71,
+    "height": 1.75,
+    "triangles": 1948
+  },
+  "enemy_galleon": {
+    "file": "enemy_galleon.glb",
+    "length": 3.4,
+    "beam": 1.38,
+    "height": 2.4,
+    "triangles": 4455
+  },
+  "enemy_runner": {
+    "file": "enemy_runner.glb",
+    "length": 2.73,
+    "beam": 0.84,
+    "height": 1.75,
+    "triangles": 2824
+  },
+  "enemy_skirmisher": {
+    "file": "enemy_skirmisher.glb",
+    "length": 2.0,
+    "beam": 0.8,
+    "height": 1.74,
+    "triangles": 2247
+  },
+  "enemy_sloop": {
+    "file": "enemy_sloop.glb",
+    "length": 2.99,
+    "beam": 1.1,
+    "height": 2.2,
+    "triangles": 3196
+  },
+  "navy_chaser": {
+    "file": "navy_chaser.glb",
+    "length": 2.59,
+    "beam": 0.94,
+    "height": 1.8,
+    "triangles": 2838
+  },
+  "navy_cutter": {
+    "file": "navy_cutter.glb",
+    "length": 2.11,
+    "beam": 0.71,
+    "height": 1.75,
+    "triangles": 1948
+  },
+  "navy_galleon": {
+    "file": "navy_galleon.glb",
+    "length": 3.4,
+    "beam": 1.38,
+    "height": 2.4,
+    "triangles": 4455
+  },
+  "navy_runner": {
+    "file": "navy_runner.glb",
+    "length": 2.73,
+    "beam": 0.84,
+    "height": 1.75,
+    "triangles": 2824
+  },
+  "navy_skirmisher": {
+    "file": "navy_skirmisher.glb",
+    "length": 2.0,
+    "beam": 0.8,
+    "height": 1.74,
+    "triangles": 2247
+  },
+  "navy_sloop": {
+    "file": "navy_sloop.glb",
+    "length": 2.99,
+    "beam": 1.1,
+    "height": 2.2,
+    "triangles": 3196
+  },
+  "player_brigantine": {
+    "file": "player_brigantine.glb",
+    "length": 4.01,
+    "beam": 1.41,
+    "height": 2.8,
+    "triangles": 4037
+  },
+  "player_sloop": {
+    "file": "player_sloop.glb",
+    "length": 3.59,
+    "beam": 1.28,
+    "height": 2.5,
+    "triangles": 3276
+  }
+}
