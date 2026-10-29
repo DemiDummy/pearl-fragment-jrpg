@@ -1,0 +1,110 @@
+{
+  "banana_plant": {
+    "file": "banana_plant.glb",
+    "radius": 0.4,
+    "height": 3.25,
+    "triangles": 306
+  },
+  "campfire": {
+    "file": "campfire.glb",
+    "radius": 0.9,
+    "height": 0.49,
+    "triangles": 288
+  },
+  "crate_stack": {
+    "file": "crate_stack.glb",
+    "radius": 1.0,
+    "height": 1.87,
+    "triangles": 568
+  },
+  "fern": {
+    "file": "fern.glb",
+    "radius": 0.35,
+    "height": 0.87,
+    "triangles": 98
+  },
+  "giant_tree": {
+    "file": "giant_tree.glb",
+    "radius": 2.8,
+    "height": 22.93,
+    "triangles": 1149
+  },
+  "heart_stone": {
+    "file": "heart_stone.glb",
+    "radius": 2.4,
+    "height": 5.3,
+    "triangles": 798
+  },
+  "jungle_tree_0": {
+    "file": "jungle_tree_0.glb",
+    "radius": 0.8,
+    "height": 11.9,
+    "triangles": 527
+  },
+  "jungle_tree_1": {
+    "file": "jungle_tree_1.glb",
+    "radius": 0.9,
+    "height": 9.02,
+    "triangles": 478
+  },
+  "jungle_tree_2": {
+    "file": "jungle_tree_2.glb",
+    "radius": 0.75,
+    "height": 10.85,
+    "triangles": 837
+  },
+  "market_stall": {
+    "file": "market_stall.glb",
+    "radius": 1.4,
+    "height": 2.4,
+    "triangles": 828
+  },
+  "net_rack": {
+    "file": "net_rack.glb",
+    "radius": 1.6,
+    "height": 2.42,
+    "triangles": 316
+  },
+  "raft": {
+    "file": "raft.glb",
+    "radius": 1.6,
+    "height": 3.2,
+    "triangles": 564
+  },
+  "ruin_arch": {
+    "file": "ruin_arch.glb",
+    "radius": 3.0,
+    "height": 5.65,
+    "triangles": 562
+  },
+  "ruin_pillar": {
+    "file": "ruin_pillar.glb",
+    "radius": 0.8,
+    "height": 5.07,
+    "triangles": 204
+  },
+  "ruin_wall": {
+    "file": "ruin_wall.glb",
+    "radius": 3.2,
+    "height": 4.75,
+    "triangles": 562
+  },
+  "signpost": {
+    "file": "signpost.glb",
+    "radius": 0.15,
+    "height": 2.82,
+    "triangles": 92
+  },
+  "star_shrine": {
+    "file": "star_shrine.glb",
+    "radius": 0.8,
+    "height": 2.5,
+    "triangles": 299
+  },
+  "sunstone_gate": {
+    "file": "sunstone_gate.glb",
+    "radius": 4.2,
+    "height": 7.2,
+    "triangles": 496
+  }
+}
