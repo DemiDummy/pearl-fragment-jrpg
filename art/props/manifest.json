@@ -131,6 +131,12 @@
     "height": 2.42,
     "triangles": 316
   },
+  "notice_board": {
+    "file": "notice_board.glb",
+    "radius": 1.1,
+    "height": 2.6,
+    "triangles": 158
+  },
   "palm_0": {
     "file": "palm_0.glb",
     "radius": 0.45,

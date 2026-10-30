@@ -83,6 +83,13 @@
     "height": 2.2,
     "triangles": 3196
   },
+  "flotsam": {
+    "file": "flotsam.glb",
+    "length": 1.09,
+    "beam": 1.18,
+    "height": 0.34,
+    "triangles": 329
+  },
   "harpoon": {
     "file": "harpoon.glb",
     "length": 1.6,
@@ -184,5 +191,12 @@
     "beam": 0.91,
     "height": 2.52,
     "triangles": 1652
+  },
+  "sea_wreck": {
+    "file": "sea_wreck.glb",
+    "length": 3.85,
+    "beam": 2.73,
+    "height": 2.15,
+    "triangles": 2564
   }
 }

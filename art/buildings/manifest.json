@@ -76,6 +76,13 @@
     "height": 3.22,
     "triangles": 648
   },
+  "market": {
+    "file": "market.glb",
+    "w": 3,
+    "h": 3,
+    "height": 9.08,
+    "triangles": 2581
+  },
   "mill": {
     "file": "mill.glb",
     "w": 2,
@@ -145,5 +152,12 @@
     "h": 2,
     "height": 6.15,
     "triangles": 1104
+  },
+  "watchtower": {
+    "file": "watchtower.glb",
+    "w": 2,
+    "h": 2,
+    "height": 11.51,
+    "triangles": 1581
   }
 }
