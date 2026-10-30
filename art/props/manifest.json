@@ -1,242 +1,278 @@
 {
   "banana_plant": {
     "file": "banana_plant.glb",
-    "radius": 0.4,
-    "height": 3.25,
-    "triangles": 306
+    "triangles": 590,
+    "height": 2.79,
+    "radius": 0.4
   },
   "barrel": {
     "file": "barrel.glb",
-    "radius": 0.33,
-    "height": 0.93,
-    "triangles": 112
+    "triangles": 385,
+    "height": 0.95,
+    "radius": 0.33
   },
   "boulder_0": {
     "file": "boulder_0.glb",
-    "radius": 2.6,
-    "height": 2.88,
-    "triangles": 220
+    "triangles": 432,
+    "height": 2.9,
+    "radius": 2.6
   },
   "bush_0": {
     "file": "bush_0.glb",
-    "radius": 0.9,
-    "height": 1.72,
-    "triangles": 160
+    "triangles": 440,
+    "height": 1.58,
+    "radius": 0.9
   },
   "bush_1": {
     "file": "bush_1.glb",
-    "radius": 0.9,
-    "height": 1.6,
-    "triangles": 296
+    "triangles": 608,
+    "height": 1.53,
+    "radius": 0.9
   },
   "campfire": {
     "file": "campfire.glb",
+    "triangles": 606,
     "radius": 0.9,
-    "height": 0.49,
-    "triangles": 288
+    "height": 0.5
   },
   "chest": {
     "file": "chest.glb",
+    "triangles": 1024,
     "radius": 0.8,
-    "height": 1.28,
-    "triangles": 576
+    "height": 1.28
   },
   "company_fort": {
     "file": "company_fort.glb",
-    "radius": 9.0,
-    "height": 11.18,
-    "triangles": 3424
+    "triangles": 6664,
+    "height": 11.17,
+    "radius": 9
   },
   "crate_stack": {
     "file": "crate_stack.glb",
-    "radius": 1.0,
-    "height": 1.87,
-    "triangles": 568
+    "triangles": 1145,
+    "height": 1.68,
+    "radius": 1
   },
   "dig_mark": {
     "file": "dig_mark.glb",
-    "radius": 1.1,
-    "height": 1.38,
-    "triangles": 201
+    "triangles": 760,
+    "height": 1.58,
+    "radius": 1.1
   },
   "fern": {
     "file": "fern.glb",
-    "radius": 0.35,
-    "height": 0.87,
-    "triangles": 98
+    "triangles": 264,
+    "height": 0.73,
+    "radius": 0.35
   },
   "giant_tree": {
     "file": "giant_tree.glb",
-    "radius": 2.8,
-    "height": 22.93,
-    "triangles": 1149
+    "triangles": 2930,
+    "height": 22.1,
+    "radius": 2.8
   },
   "heart_stone": {
     "file": "heart_stone.glb",
-    "radius": 2.4,
-    "height": 5.3,
-    "triangles": 798
+    "triangles": 3852,
+    "height": 5.07,
+    "radius": 2.4
   },
   "house_0": {
     "file": "house_0.glb",
+    "triangles": 3270,
     "radius": 4.1,
-    "height": 7.34,
-    "triangles": 1452
+    "height": 5.9
   },
   "house_1": {
     "file": "house_1.glb",
+    "triangles": 3419,
     "radius": 4.1,
-    "height": 8.53,
-    "triangles": 1484
+    "height": 6
   },
   "house_2": {
     "file": "house_2.glb",
+    "triangles": 3051,
     "radius": 4.1,
-    "height": 5.55,
-    "triangles": 1124
+    "height": 5.5
   },
   "jungle_tree_0": {
     "file": "jungle_tree_0.glb",
+    "triangles": 1214,
     "radius": 0.8,
-    "height": 11.9,
-    "triangles": 527
+    "height": 8.75
   },
   "jungle_tree_1": {
     "file": "jungle_tree_1.glb",
+    "triangles": 1325,
     "radius": 0.9,
-    "height": 9.02,
-    "triangles": 478
+    "height": 8
   },
   "jungle_tree_2": {
     "file": "jungle_tree_2.glb",
+    "triangles": 1254,
     "radius": 0.75,
-    "height": 10.85,
-    "triangles": 837
+    "height": 8.7
   },
   "lighthouse": {
     "file": "lighthouse.glb",
-    "radius": 3.6,
-    "height": 22.0,
-    "triangles": 1234
+    "triangles": 4550,
+    "height": 18.74,
+    "radius": 3.6
   },
   "market_stall": {
     "file": "market_stall.glb",
+    "triangles": 1972,
     "radius": 1.4,
-    "height": 2.4,
-    "triangles": 828
+    "height": 1.75
   },
   "net_rack": {
     "file": "net_rack.glb",
-    "radius": 1.6,
-    "height": 2.42,
-    "triangles": 316
+    "triangles": 1550,
+    "height": 2.51,
+    "radius": 1.6
   },
   "notice_board": {
     "file": "notice_board.glb",
-    "radius": 1.1,
+    "triangles": 446,
     "height": 2.6,
-    "triangles": 158
+    "radius": 1.1
   },
   "palm_0": {
     "file": "palm_0.glb",
+    "triangles": 872,
     "radius": 0.45,
-    "height": 9.09,
-    "triangles": 546
+    "height": 7.83
   },
   "palm_1": {
     "file": "palm_1.glb",
+    "triangles": 828,
     "radius": 0.45,
-    "height": 8.42,
-    "triangles": 523
+    "height": 7.23
   },
   "raft": {
     "file": "raft.glb",
-    "radius": 1.6,
-    "height": 3.2,
-    "triangles": 564
+    "triangles": 1810,
+    "height": 3.32,
+    "radius": 1.6
   },
   "rock_0": {
     "file": "rock_0.glb",
-    "radius": 1.3,
-    "height": 1.79,
-    "triangles": 120
+    "triangles": 288,
+    "height": 1.8,
+    "radius": 1.3
   },
   "rock_1": {
     "file": "rock_1.glb",
-    "radius": 1.3,
-    "height": 1.68,
-    "triangles": 120
+    "triangles": 288,
+    "height": 1.65,
+    "radius": 1.3
   },
   "rowboat": {
     "file": "rowboat.glb",
-    "radius": 2.1,
-    "height": 0.87,
-    "triangles": 850
+    "triangles": 902,
+    "height": 1.09,
+    "radius": 2.1
   },
   "ruin_arch": {
     "file": "ruin_arch.glb",
-    "radius": 3.0,
-    "height": 5.65,
-    "triangles": 562
+    "triangles": 2307,
+    "height": 5.14,
+    "radius": 3
   },
   "ruin_crystal": {
     "file": "ruin_crystal.glb",
-    "radius": 0.8,
-    "height": 2.17,
-    "triangles": 624
+    "triangles": 1256,
+    "height": 2.14,
+    "radius": 0.8
   },
   "ruin_pillar": {
     "file": "ruin_pillar.glb",
-    "radius": 0.8,
-    "height": 5.07,
-    "triangles": 204
+    "triangles": 1249,
+    "height": 4.85,
+    "radius": 0.8
   },
   "ruin_wall": {
     "file": "ruin_wall.glb",
-    "radius": 3.2,
-    "height": 4.75,
-    "triangles": 562
+    "triangles": 2088,
+    "height": 4.54,
+    "radius": 3.2
   },
   "shade_tree": {
     "file": "shade_tree.glb",
-    "radius": 0.8,
-    "height": 7.37,
-    "triangles": 498
+    "triangles": 848,
+    "height": 7.3,
+    "radius": 0.8
   },
   "signpost": {
     "file": "signpost.glb",
-    "radius": 0.15,
-    "height": 2.82,
-    "triangles": 92
+    "triangles": 168,
+    "height": 2.74,
+    "radius": 0.15
   },
   "small_chest": {
     "file": "small_chest.glb",
-    "radius": 0.45,
-    "height": 0.69,
-    "triangles": 320
+    "triangles": 996,
+    "height": 0.7,
+    "radius": 0.45
   },
   "star_shrine": {
     "file": "star_shrine.glb",
-    "radius": 0.8,
+    "triangles": 1623,
     "height": 2.5,
-    "triangles": 299
+    "radius": 0.8
   },
   "street_lamp": {
     "file": "street_lamp.glb",
-    "radius": 0.25,
-    "height": 3.53,
-    "triangles": 256
+    "triangles": 676,
+    "height": 3.55,
+    "radius": 0.25
   },
   "sunstone_gate": {
     "file": "sunstone_gate.glb",
-    "radius": 4.2,
-    "height": 7.2,
-    "triangles": 496
+    "triangles": 3667,
+    "height": 7.27,
+    "radius": 4.2
   },
   "well": {
     "file": "well.glb",
-    "radius": 1.1,
-    "height": 3.34,
-    "triangles": 446
+    "triangles": 839,
+    "height": 3.4,
+    "radius": 1.1
+  },
+  "bench": {
+    "file": "bench.glb",
+    "triangles": 724,
+    "height": 1.01,
+    "radius": 0.85
+  },
+  "cobble_patch": {
+    "file": "cobble_patch.glb",
+    "triangles": 1276,
+    "height": 0.1,
+    "radius": 4
+  },
+  "flower_bed": {
+    "file": "flower_bed.glb",
+    "triangles": 1248,
+    "height": 1.15,
+    "radius": 1.5
+  },
+  "lobster_pots": {
+    "file": "lobster_pots.glb",
+    "triangles": 1890,
+    "height": 1.11,
+    "radius": 1
+  },
+  "picket_fence": {
+    "file": "picket_fence.glb",
+    "triangles": 720,
+    "height": 1.37,
+    "radius": 2
+  },
+  "washing_line": {
+    "file": "washing_line.glb",
+    "triangles": 1636,
+    "height": 2.68,
+    "radius": 3.1
   }
 }

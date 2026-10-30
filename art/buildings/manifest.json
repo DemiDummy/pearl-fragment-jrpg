@@ -1,163 +1,163 @@
 {
   "alchemy": {
     "file": "alchemy.glb",
+    "triangles": 2949,
     "w": 2,
     "h": 2,
-    "height": 11.19,
-    "triangles": 2352
+    "height": 8.86
   },
   "armoury": {
     "file": "armoury.glb",
+    "triangles": 3370,
     "w": 2,
     "h": 2,
-    "height": 6.6,
-    "triangles": 1299
+    "height": 7.41
   },
   "bakery": {
     "file": "bakery.glb",
+    "triangles": 3178,
     "w": 2,
     "h": 2,
-    "height": 5.43,
-    "triangles": 960
+    "height": 6.68
   },
   "cottage": {
     "file": "cottage.glb",
+    "triangles": 3268,
     "w": 2,
     "h": 2,
-    "height": 5.63,
-    "triangles": 1000
+    "height": 6.04
   },
   "farm": {
     "file": "farm.glb",
+    "triangles": 4469,
     "w": 3,
     "h": 3,
-    "height": 4.29,
-    "triangles": 1954
+    "height": 6.05
   },
   "fishery": {
     "file": "fishery.glb",
+    "triangles": 3158,
     "w": 2,
     "h": 2,
-    "height": 4.0,
-    "triangles": 1629
+    "height": 4.82
   },
   "forge": {
     "file": "forge.glb",
+    "triangles": 2345,
     "w": 2,
     "h": 2,
-    "height": 6.43,
-    "triangles": 680
+    "height": 6.54
   },
   "hemp": {
     "file": "hemp.glb",
+    "triangles": 4390,
     "w": 3,
     "h": 3,
-    "height": 3.2,
-    "triangles": 2254
+    "height": 4.05
   },
   "hut": {
     "file": "hut.glb",
+    "triangles": 2173,
     "w": 2,
     "h": 2,
-    "height": 4.9,
-    "triangles": 776
+    "height": 5.15
   },
   "infirmary": {
     "file": "infirmary.glb",
+    "triangles": 3266,
     "w": 2,
     "h": 2,
-    "height": 6.03,
-    "triangles": 1118
+    "height": 6.06
   },
   "lumber": {
     "file": "lumber.glb",
+    "triangles": 1825,
     "w": 2,
     "h": 2,
-    "height": 3.22,
-    "triangles": 648
+    "height": 6.5
   },
   "market": {
     "file": "market.glb",
+    "triangles": 4421,
     "w": 3,
     "h": 3,
-    "height": 9.08,
-    "triangles": 2581
+    "height": 8.77
   },
   "mill": {
     "file": "mill.glb",
+    "triangles": 3433,
     "w": 2,
     "h": 2,
-    "height": 10.5,
-    "triangles": 1099
+    "height": 10.74
   },
   "mine": {
     "file": "mine.glb",
+    "triangles": 2448,
     "w": 2,
     "h": 2,
-    "height": 5.55,
-    "triangles": 812
+    "height": 6.14
   },
   "quarry": {
     "file": "quarry.glb",
+    "triangles": 2200,
     "w": 2,
     "h": 2,
-    "height": 5.22,
-    "triangles": 448
+    "height": 5.51
   },
   "research": {
     "file": "research.glb",
+    "triangles": 2624,
     "w": 2,
     "h": 2,
-    "height": 8.18,
-    "triangles": 1631
+    "height": 7.58
   },
   "ropewalk": {
     "file": "ropewalk.glb",
+    "triangles": 3598,
     "w": 2,
     "h": 3,
-    "height": 3.92,
-    "triangles": 1962
+    "height": 4.66
   },
   "sailloft": {
     "file": "sailloft.glb",
+    "triangles": 3110,
     "w": 2,
     "h": 3,
-    "height": 7.63,
-    "triangles": 984
+    "height": 8.3
   },
   "shipyard": {
     "file": "shipyard.glb",
+    "triangles": 3162,
     "w": 3,
     "h": 3,
-    "height": 7.05,
-    "triangles": 1334
+    "height": 7.11
   },
   "smokehouse": {
     "file": "smokehouse.glb",
+    "triangles": 2041,
     "w": 2,
     "h": 2,
-    "height": 4.31,
-    "triangles": 747
+    "height": 6.13
   },
   "tavern": {
     "file": "tavern.glb",
+    "triangles": 4334,
     "w": 2,
     "h": 2,
-    "height": 8.63,
-    "triangles": 1700
+    "height": 5
   },
   "warehouse": {
     "file": "warehouse.glb",
+    "triangles": 2526,
     "w": 2,
     "h": 2,
-    "height": 6.15,
-    "triangles": 1104
+    "height": 5.56
   },
   "watchtower": {
     "file": "watchtower.glb",
+    "triangles": 3201,
     "w": 2,
     "h": 2,
-    "height": 11.51,
-    "triangles": 1581
+    "height": 12.36
   }
 }
