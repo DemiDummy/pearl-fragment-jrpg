@@ -83,6 +83,13 @@
     "height": 2.2,
     "triangles": 3196
   },
+  "harpoon": {
+    "file": "harpoon.glb",
+    "length": 1.6,
+    "beam": 0.24,
+    "height": 0.05,
+    "triangles": 224
+  },
   "kraken": {
     "file": "kraken.glb",
     "length": 2.42,
@@ -163,6 +170,13 @@
       "rigging": 181,
       "hold": 195
     }
+  },
+  "sea_mine": {
+    "file": "sea_mine.glb",
+    "length": 1.0,
+    "beam": 1.0,
+    "height": 0.63,
+    "triangles": 591
   },
   "sea_serpent": {
     "file": "sea_serpent.glb",
