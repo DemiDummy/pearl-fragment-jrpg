@@ -159,5 +159,54 @@
     "w": 2,
     "h": 2,
     "height": 12.36
+  },
+  "barracks": {
+    "file": "barracks.glb",
+    "triangles": 2904,
+    "w": 2,
+    "h": 2,
+    "height": 5.85
+  },
+  "battery": {
+    "file": "battery.glb",
+    "triangles": 3278,
+    "w": 2,
+    "h": 2,
+    "height": 3.63
+  },
+  "fountain": {
+    "file": "fountain.glb",
+    "triangles": 2316,
+    "w": 2,
+    "h": 2,
+    "height": 3.59
+  },
+  "harbour_hall": {
+    "file": "harbour_hall.glb",
+    "triangles": 4233,
+    "w": 3,
+    "h": 3,
+    "height": 8.6
+  },
+  "harbour_hall_grand": {
+    "file": "harbour_hall_grand.glb",
+    "triangles": 5427,
+    "w": 3,
+    "h": 3,
+    "height": 11.6
+  },
+  "palisade": {
+    "file": "palisade.glb",
+    "triangles": 922,
+    "w": 1,
+    "h": 1,
+    "height": 3
+  },
+  "stone_wall": {
+    "file": "stone_wall.glb",
+    "triangles": 972,
+    "w": 1,
+    "h": 1,
+    "height": 2.91
   }
 }
