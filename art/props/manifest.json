@@ -274,5 +274,87 @@
     "triangles": 1636,
     "height": 2.68,
     "radius": 3.1
+  },
+  "bobber": {
+    "file": "bobber.glb",
+    "triangles": 270,
+    "height": 0.077,
+    "radius": 0.036,
+    "waterline": 0
+  },
+  "deck_arena": {
+    "file": "deck_arena.glb",
+    "triangles": 10863,
+    "height": 15.75,
+    "radius": 15,
+    "stage": {
+      "x": [
+        -10,
+        10
+      ],
+      "z": [
+        -4.5,
+        4.5
+      ]
+    },
+    "waterline": -1.6
+  },
+  "fish_parrot": {
+    "file": "fish_parrot.glb",
+    "triangles": 1122,
+    "height": 0.25,
+    "length": 0.55,
+    "width": 0.221
+  },
+  "fish_puffer": {
+    "file": "fish_puffer.glb",
+    "triangles": 1460,
+    "height": 0.262,
+    "length": 0.399,
+    "width": 0.307
+  },
+  "fish_sardine": {
+    "file": "fish_sardine.glb",
+    "triangles": 888,
+    "height": 0.113,
+    "length": 0.255,
+    "width": 0.08
+  },
+  "fish_snapper": {
+    "file": "fish_snapper.glb",
+    "triangles": 1234,
+    "height": 0.379,
+    "length": 0.595,
+    "width": 0.237
+  },
+  "fish_sunfin": {
+    "file": "fish_sunfin.glb",
+    "triangles": 1436,
+    "height": 0.359,
+    "length": 0.707,
+    "width": 0.253
+  },
+  "fish_tuna": {
+    "file": "fish_tuna.glb",
+    "triangles": 1140,
+    "height": 0.546,
+    "length": 1.185,
+    "width": 0.479
+  },
+  "fishing_rod": {
+    "file": "fishing_rod.glb",
+    "triangles": 1287,
+    "height": 0.343,
+    "radius": 0.08,
+    "tip": [
+      -0.6554,
+      -1.3355,
+      0.2467
+    ],
+    "grip_from_socket": [
+      0.3439,
+      0.7009,
+      -0.2954
+    ]
   }
 }
