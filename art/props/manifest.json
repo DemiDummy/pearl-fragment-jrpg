@@ -277,14 +277,14 @@
   },
   "bobber": {
     "file": "bobber.glb",
-    "triangles": 270,
-    "height": 0.077,
-    "radius": 0.036,
+    "triangles": 263,
+    "height": 0.068,
+    "radius": 0.037,
     "waterline": 0
   },
   "deck_arena": {
     "file": "deck_arena.glb",
-    "triangles": 10863,
+    "triangles": 11412,
     "height": 15.75,
     "radius": 15,
     "stage": {
@@ -301,51 +301,51 @@
   },
   "fish_parrot": {
     "file": "fish_parrot.glb",
-    "triangles": 1122,
+    "triangles": 1178,
     "height": 0.25,
     "length": 0.55,
     "width": 0.221
   },
   "fish_puffer": {
     "file": "fish_puffer.glb",
-    "triangles": 1460,
+    "triangles": 1406,
     "height": 0.262,
     "length": 0.399,
-    "width": 0.307
+    "width": 0.312
   },
   "fish_sardine": {
     "file": "fish_sardine.glb",
-    "triangles": 888,
-    "height": 0.113,
+    "triangles": 944,
+    "height": 0.11,
     "length": 0.255,
     "width": 0.08
   },
   "fish_snapper": {
     "file": "fish_snapper.glb",
-    "triangles": 1234,
-    "height": 0.379,
-    "length": 0.595,
-    "width": 0.237
+    "triangles": 1290,
+    "height": 0.372,
+    "length": 0.594,
+    "width": 0.239
   },
   "fish_sunfin": {
     "file": "fish_sunfin.glb",
-    "triangles": 1436,
-    "height": 0.359,
-    "length": 0.707,
-    "width": 0.253
+    "triangles": 1471,
+    "height": 0.329,
+    "length": 0.708,
+    "width": 0.213
   },
   "fish_tuna": {
     "file": "fish_tuna.glb",
-    "triangles": 1140,
+    "triangles": 1196,
     "height": 0.546,
     "length": 1.185,
     "width": 0.479
   },
   "fishing_rod": {
     "file": "fishing_rod.glb",
-    "triangles": 1287,
-    "height": 0.343,
-    "radius": 0.08,
+    "triangles": 1435,
+    "height": 0.349,
+    "radius": 0.09,
     "tip": [
       -0.6554,
       -1.3355,
@@ -356,5 +356,78 @@
       0.7009,
       -0.2954
     ]
+  },
+  "cave_crystal": {
+    "file": "cave_crystal.glb",
+    "triangles": 448,
+    "height": 1.2,
+    "radius": 0.8
+  },
+  "cave_mouth": {
+    "file": "cave_mouth.glb",
+    "triangles": 2231,
+    "height": 5.95,
+    "radius": 3.4,
+    "opening": {
+      "width": 3.2,
+      "height": 3.4000000000000004
+    },
+    "facing": "+Z"
+  },
+  "iron_gate": {
+    "file": "iron_gate.glb",
+    "triangles": 832,
+    "height": 3.2,
+    "radius": 2.6,
+    "width": 5.2,
+    "plane": "XY"
+  },
+  "lever": {
+    "file": "lever.glb",
+    "triangles": 606,
+    "height": 2.05,
+    "radius": 0.5,
+    "arm": {
+      "pivot": [
+        0,
+        0.9,
+        0.18
+      ],
+      "length": 1
+    }
+  },
+  "pressure_plate": {
+    "file": "pressure_plate.glb",
+    "triangles": 528,
+    "height": 0.25,
+    "radius": 1.36,
+    "top": {
+      "diameter": 2.2,
+      "thick": 0.22,
+      "sink": 0.08
+    }
+  },
+  "ruin_stairs": {
+    "file": "ruin_stairs.glb",
+    "triangles": 2220,
+    "height": 2.62,
+    "radius": 2.5,
+    "facing": "+Z",
+    "threshold": {
+      "width": 2.9,
+      "height": 0.12
+    }
+  },
+  "stalagmite": {
+    "file": "stalagmite.glb",
+    "triangles": 340,
+    "height": 1.31,
+    "radius": 0.98
+  },
+  "stalagmite_tall": {
+    "file": "stalagmite_tall.glb",
+    "triangles": 340,
+    "height": 2.4,
+    "radius": 1.17
   }
 }
